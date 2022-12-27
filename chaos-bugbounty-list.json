@@ -1404,6 +1404,14 @@
       ]
     },
     {
+      "name": "Coin98",
+      "url": "https://hackenproof.com/coin98/coin98",
+      "bounty": true,
+      "domains": [
+        "coin98.com"
+      ]
+    },
+    {
       "name": "Coinbase",
       "url": "https://hackerone.com/coinbase",
       "bounty": true,
@@ -8900,6 +8908,14 @@
       "domains": [
         "vimeopro.com",
         "vimeo.com"
+      ]
+    },
+    {
+      "name": "VirtuSwap",
+      "url": "https://hackenproof.com/virtuswap",
+      "bounty": true,
+      "domains": [
+        "virtuswap.io"
       ]
     },
     {
